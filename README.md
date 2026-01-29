@@ -7,16 +7,25 @@
 
 ## 🚀 About Me
 
-I'm a **{Your Profession/Role}** passionate about **{Your Interests}**.  
-🔭 I’m currently working on **{Current Project}**  
-🌱 I’m currently learning **{Current Learning Focus}**  
-💬 Ask me about **{Topics You Can Help With}**  
-📫 How to reach me: **{Your Email or Contact Info}**  
-⚡ Fun fact: **{A Fun Fact About You}**
+I'm a **Software Engineer** with extensive experience building full-stack applications across Backend, Frontend, and DevOps domains.  
+🔭 I’m currently working on scalable web platforms, cloud infrastructure automation, and enterprise-grade systems.  
+🌱 I’m currently learning advanced cloud architecture patterns and optimizing CI/CD workflows.  
+💬 Ask me about **Laravel, NodeJS, VueJS, Angular, AWS, DevOps automation, and distributed systems**.  
+📫 How to reach me: **tuando.0598@gmail.com**  
+⚡ Fun fact: I’ve completed **14+ projects** and have **7+ years of experience** working with a wide variety of technologies including Docker, Terraform, PostgreSQL, and more. :contentReference[oaicite:1]{index=1}
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Skills
+
+**Backend:** Laravel (6 yrs), NodeJS (3 yrs)  
+**Frontend:** VueJS (5 yrs), Angular (3 yrs), NuxtJS (3 yrs), NextJS (1 yr)  
+**Databases:** MySQL, MariaDB, PostgreSQL, SQL Server, MongoDB  
+**DevOps / Infrastructure:** Docker, AWS, Terraform, Terragrunt  
+**Mobile / Hybrid Apps:** ElectronJS + Ionic  
+**Additional Tools:** CI/CD pipelines, cloud deployments, scalable systems :contentReference[oaicite:2]{index=2}
+
+---
 
 ### 👨‍💻 Programming Languages
 
@@ -81,10 +90,8 @@ I'm a **{Your Profession/Role}** passionate about **{Your Interests}**.
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Portfolio Website](https://yourwebsite.com)
-- Email: **your.email@example.com**
+- [Portfolio Website](https://portfolio.th.pro.vn)
+- Email: **tuando.0598@gmail.com**
 
 ---
 
